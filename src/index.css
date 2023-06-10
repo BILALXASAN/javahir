@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(C:\Users\user\Desktop\PDP ACADEMY ishlari\react npx\javahir\src\tizza.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
